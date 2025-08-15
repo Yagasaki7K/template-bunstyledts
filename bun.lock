@@ -4,7 +4,7 @@
     "": {
       "name": "zentry",
       "dependencies": {
-        "@supabase/supabase-js": "^2.54.0",
+        "@supabase/supabase-js": "^2.55.0",
         "next": "15.4.6",
         "next-seo": "^6.8.0",
         "react": "19.1.0",
@@ -14,11 +14,11 @@
         "uuid": "^11.1.0",
       },
       "devDependencies": {
-        "@biomejs/biome": "^2.1.1",
-        "@types/node": "^20",
-        "@types/react": "^19",
-        "@types/react-dom": "^19",
-        "typescript": "^5",
+        "@biomejs/biome": "^2.2.0",
+        "@types/node": "^20.19.10",
+        "@types/react": "^19.1.10",
+        "@types/react-dom": "^19.1.7",
+        "typescript": "^5.9.2",
       },
     },
   },
